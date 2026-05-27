@@ -90,13 +90,13 @@ sumit-portfolio/
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/sumitkumar1553/sumit-portfolio.git
+git clone https://github.com/sumitkumar1553/Sumit-portfolio.git
 ```
 
 ### 2. Open the project folder
 
 ```bash
-cd sumit-portfolio
+cd Sumit-portfolio
 ```
 
 ### 3. Run the project
@@ -107,7 +107,7 @@ Open the `index.html` file in your browser.
 
 ## Live Preview
 
-🔗 https://sumit-portfolio-three-alpha.vercel.app/
+🔗 https://sumit-portfolio-lime.vercel.app/
 
 ---
 
